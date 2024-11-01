@@ -1,0 +1,25 @@
+/**
+ * @link       theasys.io
+ * @since      1.0.0
+ *
+ * @package    Theasys
+ * @subpackage Theasys/admin/css
+ */
+.theasys-img-responsive{display: block;max-width: 100%;height: auto;vertical-align: middle;border: 0;}
+.theasys-img-responsive.theasys-img-responsive-center{margin:20px auto;}
+.theasys-spacer{margin:40px auto;}
+#theasys_test_api_key_response{margin-top:10px}
+#theasys input.search_in_theasys {float: left;height: 28px;margin: 0 4px 0 0;}
+#theasys #theasys_search_results .theasys_tour_embeds{margin-top:5px;min-height: 42px; max-height: 200px;overflow: auto;padding: .9em;border: 1px solid #ddd;  background-color: #fdfdfd;}
+#theasys #theasys_search_results .theasys_tour_embeds span{cursor:pointer}
+#theasys #theasys_search_results .theasys_tour_embeds span:before{
+content: "\f177";font: 400 15px/1 dashicons;speak: none;display: inline-block;margin-left: 5px;padding-right: 0px;vertical-align: middle;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;color:gray;}
+#theasys_embed_dialog{max-width:800px}
+#embed_code_textarea{display: block;margin: 12px 0 0;height: 4em;width: 100%;}
+#theasys_embed_preview_dialog {padding:0px!important}
+#theasys_embed_preview_dialog .ui-dialog-content{line-height:unset;padding:0px!important}
+#theasys_embed_preview_dialog .ui-dialog-content iframe{display:block}
+#custom_width_height_inputs_wrapper{margin-top:15px}
+#custom_width_height_inputs_wrapper label{margin-right:10px}
+#custom_width_height_inputs_wrapper input{max-width:120px}
+#custom_width_height_inputs_wrapper ul{list-style:disc;padding-left:17px;color:gray}
